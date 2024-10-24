@@ -48,7 +48,7 @@ The analysis will be conducted in Python using popular data science libraries su
 
 ## Visualizations
 
-For visualization, you can refer to this link.
+For visualization, you can refer to this [link](https://learn.aelluminate.com/projects/data-science/student-performance-analysis).
 
 ## Results
 
